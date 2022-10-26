@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @groverj324
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm an experienced Senior Software Developer and DevOps Engineer who handles the most stressful situations with poise in PHP, Laravel, WordPress, React, Next.js, Vue, TypeScript, Tailwind CSS, JavaScript, Bootstrap, MySQL, AWS, GCP, Heroku.
 
-<!---
-groverj324/groverj324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Quick Learner, Technical, Honest, Reliable, Proactive, Team Player, Dedicated, Resourceful.
+
+My work has supported enterprise-level clients processing hundreds of millions of data in orders annually, modernize and enhance their in-house ERP platform.
+
+I'm looking for new, exciting opportunities to help future clients achieve the success they seek.
